@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm a Developer
 **Aspiring Technology Architect (Starting 2026 Apr)**
 
-現在、2026年4月のキャリアスタートに向けて、モダンな技術スタックとインフラストラクチャを猛勉強中です。
+現在、2026年4月のキャリアスタートに向けて、モダンな技術スタックとインフラを勉強中です。
 
 #### 📚 Currently Learning
 日々の学習記録やハンズオンの成果物は [**learningリポジトリ**](https://github.com/shayate811/learning) に集約しています。
