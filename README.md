@@ -12,7 +12,7 @@
 | **Backend** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) |
 | **Frontend** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) |
 | **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Data & Analytics** | ![MATLAB](https://img.shields.io/badge/-MATLAB-e16737?style=flat&logo=mathworks&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?|
+| **Data & Analytics** | ![MATLAB](https://img.shields.io/badge/-MATLAB-e16737?style=flat&logo=mathworks&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shayate811&repo=learning&theme=radical)](https://github.com/shayate811/learning)
