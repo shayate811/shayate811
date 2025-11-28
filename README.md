@@ -1,4 +1,4 @@
-### 👋 Hi, I'm a Developer
+### 👋 Hi, I'm a shayate811
 **Aspiring Technology Architect (Starting 2026 Apr)**
 
 現在、2026年4月のキャリアスタートに向けて、モダンな技術スタックとインフラを勉強中です。
