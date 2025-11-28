@@ -1,4 +1,4 @@
-### 👋 Hi, I'm a shayate811
+### 👋 Hi, I'm shayate811
 **Aspiring Technology Architect (Starting 2026 Apr)**
 
 現在、2026年4月のキャリアスタートに向けて、モダンな技術スタックとインフラを勉強中です。
@@ -14,7 +14,5 @@
 | **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 
 ---
-<a href="https://github.com/shayate811/learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shayate811&repo=learning&theme=radical" />
-</a>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shayate811&repo=learning&theme=radical)](https://github.com/shayate811/learning)
 
