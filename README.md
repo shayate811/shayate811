@@ -1,16 +1,19 @@
-## Hi there 👋
+### 👋 Hi, I'm a Developer
+**Aspiring Technology Architect (Starting 2026 Apr)**
 
-<!--
-**shayate811/shayate811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+現在、2026年4月のキャリアスタートに向けて、モダンな技術スタックとインフラストラクチャを猛勉強中です。
 
-Here are some ideas to get you started:
+#### 📚 Currently Learning
+日々の学習記録やハンズオンの成果物は [**learningリポジトリ**](https://github.com/shayate811/learning) に集約しています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category | Stack |
+| :--- | :--- |
+| **Infrastructure / Cloud** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) |
+| **Backend** | ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| **Frontend** | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+
+---
+<a href="https://github.com/shayate811/learning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shayate811&repo=learning&theme=radical" />
+</a>
