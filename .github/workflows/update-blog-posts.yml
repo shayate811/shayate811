@@ -2,16 +2,18 @@ name: Latest blog post workflow
 on:
   schedule: # 1時間ごとに実行
     - cron: '0 * * * *'
-  workflow_dispatch: # 手動実行ボタンを表示する設定
+  workflow_dispatch: # 手動実行ボタンを表示
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # <--- 【重要】ここを追加！これで書き込み許可が出ます
     steps:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://zenn.dev/shayate811/feed" # あなたのZenn RSS
-          max_post_count: 5 # 表示する記事数
-          template: "$newline - [$title]($url)" # リスト形式で表示
+          feed_list: "https://zenn.dev/shayate811/feed"
+          max_post_count: 5
+          template: "$newline - [$title]($url)"
