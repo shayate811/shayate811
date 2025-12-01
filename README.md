@@ -30,6 +30,7 @@
 
 #### 📝 Latest Zenn Articles
 <!-- BLOG-POST-LIST:START -->
+ - 2025/12/01 📘 [【検証】マイクロサービスで「データ整合性」は守れるか？分散トランザクション&lpar;Saga&rpar;を実装して崩壊させてみた](https://zenn.dev/shayate811/articles/microservices-saga-poc)
  - 2025/12/01 📘 [【検証】マイクロサービス化で通信遅延は倍増？Python/FastAPIでオーバーヘッドを実測比較してみた](https://zenn.dev/shayate811/articles/monolith-vs-microservices)
  - 2025/11/28 📘 [【読書感想】『ソフトウェアアーキテクチャの基礎』を読み始めた話 Part1：エンジニアからアーキテクトへの思考の転換](https://zenn.dev/shayate811/articles/software-architecture-bookreview)<!-- BLOG-POST-LIST:END -->
 <br/>
