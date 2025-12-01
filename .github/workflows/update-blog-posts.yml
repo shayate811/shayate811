@@ -9,11 +9,12 @@ jobs:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     permissions:
-      contents: write # <--- 【重要】ここを追加！これで書き込み許可が出ます
+      contents: write 
     steps:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://zenn.dev/shayate811/feed"
           max_post_count: 5
-          template: "$newline - [$title]($url)"
+          date_format: "yyyy/mm/dd"
+          template: "$newline| $date | [$title]($url) |"
