@@ -30,7 +30,8 @@
 
 #### 📝 Latest Zenn Articles
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ - [【検証】モノリス vs マイクロサービス：通信オーバーヘッドという「税金」を実測してみた](https://zenn.dev/shayate811/articles/monolith-vs-microservices)
+ - [【読書感想】『ソフトウェアアーキテクチャの基礎』を読み始めた話 Part1：エンジニアからアーキテクトへの思考の転換](https://zenn.dev/shayate811/articles/software-architecture-bookreview)<!-- BLOG-POST-LIST:END -->
 <br/>
 
 <div align="center">
