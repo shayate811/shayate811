@@ -26,6 +26,11 @@
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shayate811&repo=learning&theme=radical)](https://github.com/shayate811/learning)
 
+<br/>
+
+#### 📝 Latest Zenn Articles
+<br/>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:460073,100:A100FF&height=100&section=footer" />
 </div>
