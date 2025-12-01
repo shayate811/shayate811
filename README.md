@@ -1,7 +1,13 @@
-### 👋 Hi, I'm shayate811
-**Aspiring Technology Architect (Starting 2026 Apr)**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:460073,100:A100FF&text=Hi%20👋,%20I'm%20shayate811&fontSize=70&fontColor=E0CCFF&animation=fadeIn" alt="header" />
+</div>
 
-現在、2026年4月のキャリアスタートに向けて、モダンな技術スタックとインフラを勉強中です。
+<div align="center">
+  <h3>Aspiring Technology Architect (Starting 2026 Apr)</h3>
+  <p>現在、2026年4月のキャリアスタートに向けて、モダンな技術スタックとインフラを勉強中です。</p>
+</div>
+
+<br/>
 
 #### 📚 Currently Learning
 日々の学習記録やハンズオンの成果物は [**learningリポジトリ**](https://github.com/shayate811/learning) に集約しています。
@@ -16,3 +22,7 @@
 
 ---
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shayate811&repo=learning&theme=radical)](https://github.com/shayate811/learning)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:460073,100:A100FF&height=100&section=footer" />
+</div>
