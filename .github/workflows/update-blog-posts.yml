@@ -16,5 +16,5 @@ jobs:
         with:
           feed_list: "https://zenn.dev/shayate811/feed"
           max_post_count: 5
-          date_format: "yyyy/mm/dd"
-          template: "$newline| $date | [$title]($url) |"
+          date_format: "yyyy/mm/dd" # 日本形式の日付にする
+          template: "$newline - $date 📘 [$title]($url)" # 日付と絵文字を追加
