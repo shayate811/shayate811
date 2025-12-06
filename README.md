@@ -40,6 +40,13 @@
 
 #### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
+
+```txt
+From: 28 November 2025 - To: 05 December 2025
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 <br/>
 
