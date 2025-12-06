@@ -11,8 +11,8 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/wakatime-readme-action@v1
+      - uses: athul/wakatime-readme@v1 
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿ # グラフの見た目をリッチにするブロック文字
+          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
