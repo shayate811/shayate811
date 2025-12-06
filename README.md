@@ -36,6 +36,11 @@
  - 2025/11/28 📘 [【読書感想】『ソフトウェアアーキテクチャの基礎』を読み始めた話 Part1：エンジニアからアーキテクトへの思考の転換](https://zenn.dev/shayate811/articles/software-architecture-bookreview)<!-- BLOG-POST-LIST:END -->
 <br/>
 
+<br/>
+
+#### 📊 Weekly Development Breakdown
+<br/>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:460073,100:A100FF&height=100&section=footer" />
 </div>
