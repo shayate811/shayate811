@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>Aspiring Technology Architect (Starting 2026 Apr) </h3>
-  <p>現在、2026年4月のキャリアスタートに向けて、幅広い技術スタックとインフラを勉強中です。 https://shayate811.com/ </p>
+  <p> https://shayate811.com/ </p>
   <a href="https://zenn.dev/shayate811">
     <img src="https://img.shields.io/badge/Zenn-shayate811-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn Article"/>
   </a>
