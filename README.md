@@ -13,7 +13,6 @@
 <br/>
 
 #### 📚 Currently Learning
-日々の学習記録やハンズオンの成果物は [**learningリポジトリ**](https://github.com/shayate811/learning) に集約しています。
 
 | Category | Stack |
 | :--- | :--- |
@@ -24,7 +23,6 @@
 | **Data & Analytics** | ![MATLAB](https://img.shields.io/badge/-MATLAB-e16737?style=flat&logo=mathworks&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
 
 ---
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=shayate811&repo=learning&theme=radical)](https://github.com/shayate811/learning)
 
 <br/>
 
