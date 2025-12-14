@@ -12,7 +12,7 @@
 
 <br/>
 
-#### 📚 Currently Learning
+#### 📚 Language
 
 | Category | Stack |
 | :--- | :--- |
