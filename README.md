@@ -4,9 +4,11 @@
 
 <div align="center">
   <h3>Aspiring Technology Architect (Starting 2026 Apr) </h3>
-  <p> https://shayate811.com/ </p>
+  <a href="https://shayate811.com/">
+    <img src="https://img.shields.io/badge/Portfolio-shayate811.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://zenn.dev/shayate811">
-    <img src="https://img.shields.io/badge/Zenn-shayate811-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn Article"/>
+    <img src="https://img.shields.io/badge/Zenn-shayate811-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn"/>
   </a>
 </div>
 
