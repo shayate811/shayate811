@@ -4,12 +4,14 @@
 
 <div align="center">
   <h3>Aspiring Technology Architect (Starting 2026 Apr) </h3>
-  <a href="https://shayate811.com/">
-    <img src="https://img.shields.io/badge/Portfolio-shayate811.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://zenn.dev/shayate811">
     <img src="https://img.shields.io/badge/Zenn-shayate811-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn"/>
   </a>
+  <br />
+  <a href="https://shayate811.com/">
+    <img src="https://img.shields.io/badge/Portfolio-shayate811.com-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <br />
   <a href="https://twitter.com/shayate81177391">
     <img src="https://img.shields.io/badge/X-shayate811-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
