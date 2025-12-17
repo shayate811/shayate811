@@ -10,6 +10,9 @@
   <a href="https://zenn.dev/shayate811">
     <img src="https://img.shields.io/badge/Zenn-shayate811-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn"/>
   </a>
+  <a href="https://twitter.com/shayate81177391">
+    <img src="https://img.shields.io/badge/X-shayate811-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
 </div>
 
 <br/>
