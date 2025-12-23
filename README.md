@@ -19,7 +19,7 @@
 
 <br/>
 
-#### 📚 Language
+#### 📚 Tech stack
 
 | Category | Stack |
 | :--- | :--- |
