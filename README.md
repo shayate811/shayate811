@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Aspiring Technology Architect (Starting 2026 Apr) </h3>
+  <h3>"Elegant Architecture, Pragmatic Execution" (Starting 2026 Apr) </h3>
   <a href="https://zenn.dev/shayate811">
     <img src="https://img.shields.io/badge/Zenn-shayate811-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn"/>
   </a>
