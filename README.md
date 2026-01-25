@@ -37,11 +37,11 @@
 
 #### 📝 Latest Zenn Articles
 <!-- BLOG-POST-LIST:START -->
+ - 2026/01/25 📘 [k8s Serviceの負荷分散は本当にランダムなのか？iptablesのOSSコードから裏取りしてみた](https://zenn.dev/shayate811/articles/k8s-proxy-service)
  - 2025/12/20 📘 [脳科学&lpar;fMRI&rpar;のレガシー資産「SPM12」をDockerに閉じ込めてMチップ Macで強制起動する](https://zenn.dev/shayate811/articles/spm12-for-mac)
  - 2025/12/13 📘 [Kind + Skaffoldでコード変更時にビルド不要で即時反映される爆速kubernetes開発環境を作る](https://zenn.dev/shayate811/articles/k8s-beginner)
  - 2025/12/06 📘 [「風が吹けば桶屋が儲かる」をPythonで因果推論してみた 〜擬似相関と交絡因子の罠 vs 因果〜](https://zenn.dev/shayate811/articles/causal-inference)
- - 2025/12/04 📘 [Dev Containersで「本番同等の通信経路」を再現すべき技術的理由 マイクロサービス開発の落とし穴と解決策](https://zenn.dev/shayate811/articles/dev-container)
- - 2025/12/01 📘 [Sagaパターン実装ガイド 分散トランザクションの障害復旧を検証](https://zenn.dev/shayate811/articles/microservices-saga-poc)<!-- BLOG-POST-LIST:END -->
+ - 2025/12/04 📘 [Dev Containersで「本番同等の通信経路」を再現すべき技術的理由 マイクロサービス開発の落とし穴と解決策](https://zenn.dev/shayate811/articles/dev-container)<!-- BLOG-POST-LIST:END -->
 <br/>
 
 <div align="center">
