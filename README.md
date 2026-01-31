@@ -19,7 +19,7 @@
 
 <br/>
 
-#### 📚 Tech stack
+#### 📚 Focus Area
 
 | Category | Stack |
 | :--- | :--- |
